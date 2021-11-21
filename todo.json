@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Welcome to My ToDo's",
+        "desc": "Welcome to My ToDo's, Here you can write your ToDo's!",
+        "due": {
+            "day": null,
+            "month": null,
+            "year": null
+        },
+        "done": false
+    }
+]
